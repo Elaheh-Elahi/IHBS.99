@@ -146,7 +146,7 @@ A data frame with 45 columns:
 }
 \item \code{DYCOL28}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{DYCOL29}:

@@ -79,12 +79,12 @@
 #'  }
 #'   \item \code{IsTel}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #' }
 #'   \item \code{FVam}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description:  No description
 #'  }
 #' }
@@ -171,12 +171,12 @@
 #'  }
 #'   \item \code{IsTel}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #' }
 #'   \item \code{FVam}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description:  No description
 #'  }
 #' }
@@ -455,7 +455,7 @@
 #'              }
 #'     \item \code{DYCOL28}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'     \item \code{DYCOL29}:
@@ -693,7 +693,7 @@
 #'              }
 #'     \item \code{DYCOL28}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'     \item \code{DYCOL29}:
